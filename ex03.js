@@ -1,7 +1,7 @@
 // ex.03: boolean & if else
-    let isSunny = true;
-    if(isSunny){
-        console.log("wear sunglasses");
+    let isRainy = true;
+    if(isRainy){
+        console.log("Take un umbrella");
     }else{
-        console.log("take un umbrella");
+        console.log("wear sunglasses");
     }
